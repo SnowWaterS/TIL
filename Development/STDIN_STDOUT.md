@@ -1,4 +1,4 @@
-# STDIN / STDOUT
+# [Java/Kotlin] STDIN / STDOUT
 
 Category: Basic
 Date: May 30, 2021
